@@ -260,7 +260,7 @@ const Form=()=>{
                             }
                           }}
                         >
-                            {isLogin?"Don't jabe an account? Sign Up here.":"Already have an account? Sign in here."}
+                            {isLogin?"Don't have an account? Sign Up here.":"Already have an account? Sign in here."}
                         </Typography>
                     </Box>
                 </form>
