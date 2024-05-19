@@ -60,7 +60,3 @@ To run the LikeLoop app locally, follow these steps:
 
 Start connecting with friends and sharing updates with LikeLoop!
 
-## Screenshots
-
-![LikeLoop Screenshot](path/to/your/screenshot4.png)
-![LikeLoop Screenshot](path/to/your/screenshot5.png)
