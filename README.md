@@ -4,8 +4,9 @@
 
 LookLike is a cutting-edge social media application built using the MERN stack, React-Redux, MUI, and JWT for authentication. With LookLike, you can connect with friends, share updates, and stay engaged with your community effortlessly.
 
-![LookLike Screenshot](path/to/your/screenshot1.png)
-![LookLike Screenshot](path/to/your/screenshot2.png)
+![LookLike Screenshot](https://github.com/aryanraj13/LookLike/blob/main/feed.png?raw=true)
+![LookLike Screenshot](https://github.com/aryanraj13/LookLike/blob/main/post1.png?raw=true)
+![LookLike Screenshot](https://github.com/aryanraj13/LookLike/blob/main/post2.png?raw=true)
 
 ## Features
 
@@ -14,11 +15,15 @@ LookLike is a cutting-edge social media application built using the MERN stack, 
 - **Commenting and Liking:** Engage with your friends' posts through comments and likes.
 - **User Profiles:** Customize your profile and explore others' profiles.
 - **Responsive Design:** Enjoy a seamless social media experience across devices with a fully responsive design.
+
+![LookLike Screenshot](https://github.com/aryanraj13/LookLike/blob/main/comment.png?raw=true)
+
 - **Search Functionality:** Quickly find friends and posts using the search feature.
 - **Real-Time Updates:** Stay updated with real-time notifications and updates.
 - **Media Upload:** Share photos and videos with your posts.
 
-![LookLike Screenshot](path/to/your/screenshot3.png)
+![LookLike Screenshot](https://github.com/aryanraj13/LookLike/blob/main/friend.png?raw=true)
+![LookLike Screenshot](https://github.com/aryanraj13/LookLike/blob/main/register.png?raw=true)
 
 ## How to Run
 
